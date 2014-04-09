@@ -1,2 +1,2 @@
-MobileContinuousIntegration
+Mobile Continuous Integration
 ===========================
