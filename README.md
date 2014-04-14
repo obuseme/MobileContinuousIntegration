@@ -12,6 +12,8 @@ Here's an overview of tools we find useful for supporting our mobile continuous 
 * [node.js] (http://nodejs.org/) - JavaScript on the server side, we use it for easily create fixture data for our apps.
 * [Dashing] (http://shopify.github.io/dashing/) - Framework to create Dashboards - we use it to show our jenkins build results.
 * [Etsy’s Journey to Continuous Integration for Mobile Apps] (http://codeascraft.com/2014/02/28/etsys-journey-to-continuous-integration-for-mobile-apps/) - Great blog writeup on Etsy's continuous integration journey.
+* [TestFlight] (http://testflightapp.com/) - Service that assists with over-the-air distribution of native apps for testing
+* [HockeyApp] (http://hockeyapp.net/features/) - Alternative to TestFlight for assisting with over-the-air distribution of native apps for testing
 
 ### iOS
 * [OCLint] (http://oclint.org/) - Static code analyzer for Objective-C
