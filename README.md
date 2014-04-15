@@ -18,8 +18,14 @@ Here's an overview of tools we find useful for supporting our mobile continuous 
 ### iOS
 * [OCLint] (http://oclint.org/) - Static code analyzer for Objective-C
 * [OCMock] (http://ocmock.org/) - Mock object framework for Objective-C
-* [XCode Build Server] (https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/xcode_guide-continuous_integration/000-About_Continuous_Integration/about_continuous_integration.html)
+* [CocoaPods] (http://cocoapods.org/) - Dependency manager for Objective-C projects
+* [XCode Build Server] (https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/xcode_guide-continuous_integration/000-About_Continuous_Integration/about_continuous_integration.html) - Apple's alternative to Jenkins
 * [xctool] (https://github.com/facebook/xctool) - A 3rd party alternative to xcodebuild for command line builds of iOS apps
+* [Xcode Overview: Unit Test Your App] (https://developer.apple.com/library/ios/documentation/ToolsLanguages/Conceptual/Xcode_Overview/UnitTestYourApp/UnitTestYourApp.html) - Overview of unit testing within Xcode
+* [UIAutomation] (https://developer.apple.com/library/mac/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/UsingtheAutomationInstrument/UsingtheAutomationInstrument.html) - Testing framework provided by Apple for automating "interface tests" (aka integration tests)
+* [Kiwi] (https://github.com/allending/Kiwi) - Behavior Driven Development framework for iOS
+* [Frank] (https://github.com/moredip/Frank) - "Selenium for native iOS apps"
+* [KIF] (https://github.com/kif-framework/KIF) - 3rd party, open source, ntegration testing framework for iOS
 
 ### Android
 
