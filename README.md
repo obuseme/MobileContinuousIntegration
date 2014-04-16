@@ -18,6 +18,7 @@ Here's an overview of tools we find useful for supporting our mobile continuous 
 ### iOS
 * [OCLint] (http://oclint.org/) - Static code analyzer for Objective-C
 * [OCMock] (http://ocmock.org/) - Mock object framework for Objective-C
+* [Improving iOS Unit Tests with OCMock] (https://engineering.aweber.com/improving-ios-unit-tests-with-ocmock/) - AWeber Engineering blog post by Andy Obusek about some useful tricks with OCMock
 * [CocoaPods] (http://cocoapods.org/) - Dependency manager for Objective-C projects
 * [XCode Build Server] (https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/xcode_guide-continuous_integration/000-About_Continuous_Integration/about_continuous_integration.html) - Apple's alternative to Jenkins
 * [xctool] (https://github.com/facebook/xctool) - A 3rd party alternative to xcodebuild for command line builds of iOS apps
