@@ -1,5 +1,8 @@
 Mobile Continuous Integration
 ===========================
+Here are the slides from our talk at PhillyDevOps on 04/15/2014.
+[MobileCIPrezi.pdf](MobileCIPrezi.pdf)
+
 Here's an overview of tools we find useful for supporting our mobile continuous integration build process.
 
 ### General
